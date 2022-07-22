@@ -1,0 +1,124 @@
+
+body{
+    background-color: paleturquoise;
+    margin: 0px;
+    text-align: center;
+    background-color: #E4F9F5;
+}
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'sacramento',cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-size: 2.55rem;
+    font-family: 'montserrat',sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color: cornflowerblue;
+    font-family: 'montserrat',sans-serif;
+    color: #11999E;
+  
+}
+.profile{
+    line-height: 2;
+}
+
+p{
+    font: size 80px;
+    width: auto;
+    margin: 0 auto;
+    font-family: 'merriweather sans',sans-serif;
+ }
+ a{
+    color: white;
+    font-family: 'montserrat',sans-serif;
+ }
+ hr{
+    border-style: dotted none none ;
+    margin-top: 30px;
+    height: 0rem;
+    width: 20rem;
+    border-color: grey;
+    border-width: 5px;
+ }
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+}
+.bottom-container{
+    margin-top: 70px;
+    background-color: #66BFBF;
+    padding-top: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.my-image{
+    width: 200px;
+    height: 200px;
+    background-color: #E4F9F5;
+}
+
+.java-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    background-color: #E4F9F5;
+}
+.experiences{
+    width: 25%;
+    float: right;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.social-media-description{
+   width: 25%;
+    clear: right;
+}
+
+.cloud1{
+   position:absolute; 
+   top: 60px;
+   right: 300px;
+}
+
+.mountain{
+    display: inline;
+    position: relative;
+}
+
+.cloud2{
+   position: absolute;
+}
+.chat{
+    margin: 30px;
+    width: 5rem;
+    height: 5rem;
+}
+.pro{
+    text-decoration: underline;
+}
+.copyright{
+    margin-top: 30px;
+    color: #EAF6F6;
+}
+.footer-link{
+    margin: 30px 30px 30px 30px;
+    color: #11999E;
+}
+.btn{
+    background-color: #11999E;
+    border-radius: 8%;
+    font-family: 'merriweather sans',sans-serif;
+    font-weight: 300;
+}
